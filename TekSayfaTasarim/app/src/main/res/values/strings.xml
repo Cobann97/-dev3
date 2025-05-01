@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tek Sayfa Uygulama</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_success">Login successful!</string>
+    <string name="login_fail">Please fill in all fields.</string>
+</resources>

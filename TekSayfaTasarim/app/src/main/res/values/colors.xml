@@ -1,0 +1,5 @@
+<resources>
+    <color name="colorBackground">#FAFAFA</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+</resources>
